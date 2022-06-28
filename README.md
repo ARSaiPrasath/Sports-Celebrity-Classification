@@ -1,7 +1,9 @@
 # Sports-Celebrity-Classification
 Created an end to end application for classifying Sports celebrities. 
+Used HaarCascades Algorithm and PyWavelets for getting the features(face and eyes) and converting the face into a wavelet form.
 Created a Machine Learning model using Support Vector Machine for classification. 
-And I created a Flask Server for hosting the model and created Front End UI using HTML, CSS and JavaScript.
+I have restricted the classification to only 5 people, Lionel Messi, Maria Sharapova, Serena Williams, Roger Federer, and Virat Kohli. 
+And I created a Flask Server for deploying the model and created UI using HTML, CSS and JavaScript.
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1. Maria Sharapova
