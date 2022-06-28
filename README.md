@@ -1,5 +1,5 @@
-# Sports-Personality-Classification
-Created an end to end application for classifying Sports personalities. 
+# Sports-Celebrity-Classification
+Created an end to end application for classifying Sports celebrities. 
 Created a Machine Learning model using Support Vector Machine for classification. 
 And I created a Flask Server for hosting the model and created Front End UI using HTML, CSS and JavaScript.
 
